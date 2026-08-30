@@ -11,11 +11,9 @@ def home():
 def health():
     return 'App is running'
 
-#..
-
 # Task 3: In-memory dictionary to store username and password pairs
 passwords_db = {}
-
+#,,,,,
 # Endpoint 1: Save credentials using POST
 @app.route('/add', methods=['POST'])
 def add_password():
@@ -42,6 +40,6 @@ def get_password(username):
     # Handle user not found case
     return jsonify({"error": "Username not found"}), 404
 
-
+#Space for re commit
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
