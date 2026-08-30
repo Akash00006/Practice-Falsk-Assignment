@@ -107,6 +107,9 @@ The application will start on:
 http://localhost:5000
 ```
 
+<img width="1259" height="771" alt="1" src="https://github.com/user-attachments/assets/439a28d5-123a-44c2-a6c6-31c314a985b8" />
+
+
 ### Step 5: Test the Application
 
 Open the following URL in a browser:
@@ -120,6 +123,9 @@ Health check:
 ```text
 http://localhost:5000/health
 ```
+<img width="1140" height="776" alt="2" src="https://github.com/user-attachments/assets/82a677e7-1699-478e-8b77-745a3595e6cd" />
+
+
 
 For the `/add`, `/get/<username>`, and `/delete/<username>` APIs, Postman can be used for testing.
 
