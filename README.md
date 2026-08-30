@@ -1,8 +1,6 @@
 # Flask Password Manager
 
-## 1. Title
-
-**Flask Password Manager**
+## 1. Flask Password Manager
 
 A simple password manager application developed using Python and Flask. The application allows users to add, retrieve, and delete username-password records using REST API endpoints.
 
