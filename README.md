@@ -30,8 +30,8 @@ The application stores data temporarily in a Python dictionary, so the data will
 
 ```json
 {
-    "username": "testuser",
-    "password": "test123"
+    "username": "akash",
+    "password": "abcd12345"
 }
 ```
 
@@ -39,8 +39,8 @@ The application stores data temporarily in a Python dictionary, so the data will
 
 ```json
 {
-    "username": "testuser",
-    "password": "test123"
+    "username": "akash",
+    "password": "abcd12345"
 }
 ```
 
