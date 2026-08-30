@@ -6,6 +6,7 @@ app = Flask(__name__)
 def home():
     return 'Welcome to the App'
 
+ 
 @app.route('/health')
 def health():
     return 'App is running'
