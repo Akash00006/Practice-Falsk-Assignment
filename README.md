@@ -199,4 +199,5 @@ The following screenshot shows the Password Manager APIs being tested using Post
 
 <img width="762" height="628" alt="6" src="https://github.com/user-attachments/assets/7d3e4862-04cf-4c75-8c20-c51b700b4c8a" />
 
-<img width="722" height="481" alt="10" src="https://github.com/user-attachments/assets/073cb2a6-8b10-468c-bde3-9cbf06b250b7" />
+<img width="655" height="651" alt="12" src="https://github.com/user-attachments/assets/4a54ba76-15df-4165-8443-145fbf5cddc0" />
+
